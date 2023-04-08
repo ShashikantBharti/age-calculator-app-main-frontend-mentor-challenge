@@ -39,10 +39,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Age Calculator Code](https://github.com/ShashikantBharti/age-calculator-app-main-frontend-mentor-challenge)
+- Live Site URL: [Age Calculator](https://shashikantbharti.github.io/age-calculator-app-main-frontend-mentor-challenge/)
 
 ## My process
+
+- First of all, built html skeleton.
+- Then added css to give a beautiful shape.
+- At last functionality is added using js.
 
 ### Built with
 
